@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+*      text=auto
+
+*.php  text
+*.js   text
+*.html text
+*.xml  text
+*.tpl  text
+*.css  text
+*.js   text
+*.sql  text
+*.sh   text

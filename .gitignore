@@ -1,0 +1,9 @@
+# Root ignores
+.project
+.projectOptions
+.settings
+.cache
+.buildpath
+.idea
+**/Thumbs.db
+**/.DS_Store
