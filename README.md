@@ -9,7 +9,7 @@ Requirements
 
 Usage
 -----
-`php dump.php [--host 127.0.0.1] [--port 19812] [--username admin] [--password abcd] [--output out] [--tables comma separated list of files] [--limit 1000000]`
+`php dump.php [--host 127.0.0.1] [--port 19812] [--username admin] [--password abcd] [--output out] [--tables comma separated list of tables] [--limit 1000000]`
 
 Will output, by table, in the output directory : 
  * one SQL file containing MySQL CREATE TABLE 
